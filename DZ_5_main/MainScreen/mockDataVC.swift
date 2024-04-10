@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import CoreLocation
+
 
 struct Friends: Identifiable {
     var id: String = UUID().uuidString

@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import CoreLocation
+
 
 
 
@@ -28,8 +28,8 @@ class ViewController: UIViewController {
         view.addSubview(tabelView)
         title = "Friends"
         navigationController?.navigationBar.prefersLargeTitles = true
-}
-
+        navigationItem.backButtonDisplayMode = .minimal
+    }
 
 }
 

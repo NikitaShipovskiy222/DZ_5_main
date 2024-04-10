@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import CoreLocation
+
 
 
 struct Messenge: Identifiable {

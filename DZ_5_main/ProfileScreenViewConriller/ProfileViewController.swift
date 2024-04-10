@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import CoreLocation
+
 
 
 class ProfileViewController: UIViewController {
